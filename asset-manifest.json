@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chem-practice/static/css/main.b5cfbfba.chunk.css",
-    "main.js": "/chem-practice/static/js/main.69fa4862.chunk.js",
-    "main.js.map": "/chem-practice/static/js/main.69fa4862.chunk.js.map",
+    "main.css": "/chem-practice/static/css/main.a9c2b21b.chunk.css",
+    "main.js": "/chem-practice/static/js/main.0fe320b0.chunk.js",
+    "main.js.map": "/chem-practice/static/js/main.0fe320b0.chunk.js.map",
     "runtime-main.js": "/chem-practice/static/js/runtime-main.531cd805.js",
     "runtime-main.js.map": "/chem-practice/static/js/runtime-main.531cd805.js.map",
-    "static/js/2.0c0fd084.chunk.js": "/chem-practice/static/js/2.0c0fd084.chunk.js",
-    "static/js/2.0c0fd084.chunk.js.map": "/chem-practice/static/js/2.0c0fd084.chunk.js.map",
+    "static/js/2.e02bb940.chunk.js": "/chem-practice/static/js/2.e02bb940.chunk.js",
+    "static/js/2.e02bb940.chunk.js.map": "/chem-practice/static/js/2.e02bb940.chunk.js.map",
     "index.html": "/chem-practice/index.html",
-    "precache-manifest.9f5e8ebddc0e1ef11ebccbbc32209623.js": "/chem-practice/precache-manifest.9f5e8ebddc0e1ef11ebccbbc32209623.js",
+    "precache-manifest.c00881e5c587c8d1e787ef1834f9b9b1.js": "/chem-practice/precache-manifest.c00881e5c587c8d1e787ef1834f9b9b1.js",
     "service-worker.js": "/chem-practice/service-worker.js",
-    "static/css/main.b5cfbfba.chunk.css.map": "/chem-practice/static/css/main.b5cfbfba.chunk.css.map",
+    "static/css/main.a9c2b21b.chunk.css.map": "/chem-practice/static/css/main.a9c2b21b.chunk.css.map",
     "static/media/logo.svg": "/chem-practice/static/media/logo.25bf045c.svg"
   }
 }
